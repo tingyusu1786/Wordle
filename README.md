@@ -19,7 +19,7 @@ Website 👉 https://wordle-sue.web.app/
 - Game ends when the player wins or loses
 
 
-## Screenshots
-
-![wordle_light](https://firebasestorage.googleapis.com/v0/b/wordle-sue.appspot.com/o/wordle_light.png?alt=media&token=f528ba9f-cfb8-4d00-a3d2-b252bc8ff182)
-![wordle_dark](https://firebasestorage.googleapis.com/v0/b/wordle-sue.appspot.com/o/wordle_dark.png?alt=media&token=209db357-e46d-4314-88b3-b1e1402993b1)
+## Demo
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/109668258/239475635-df63c55b-97f0-4cd3-a66d-11744b5e7ddd.gif" alt="wordle_demo" width="500">
+</p>
