@@ -13,13 +13,10 @@ Website 👉 https://wordle-sue.web.app/
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ## Features
 
-- Website hosted on Firebase
-- Light/dark mode provided
-- Key a-z, enter, and backspace are available for the game
-- Game ends when the player wins or loses
-
+- Cursor-free game navigation (available keys: a-z, enter, and backspace)
+- Light/ dark mode provided
 
 ## Demo
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/109668258/239475635-df63c55b-97f0-4cd3-a66d-11744b5e7ddd.gif" alt="wordle_demo" width="500">
+<img src="https://user-images.githubusercontent.com/109668258/239477267-8d6c2f45-973c-444a-bb81-29a3baa7667c.gif" alt="wordle_demo" width="500">
 </p>
