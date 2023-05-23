@@ -13,8 +13,8 @@ Website 👉 https://wordle-sue.web.app/
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ## Features
 
-- Cursor-free game navigation (available keys: a-z, enter, and backspace)
-- Light/ dark mode provided
+- Cursor-free game navigation (available keys: `a-z`, `enter`, and `backspace`)
+- Light / dark mode provided
 
 ## Demo
 <p  align="center">
